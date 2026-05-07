@@ -15,4 +15,3 @@ const binarySearch = (arr: number[], target: number): Boolean => {
 };
 
 const arr: number[] = [1, 2, 3, 4, 5];
-console.log("object :>> ", binarySearch(arr, 1));
